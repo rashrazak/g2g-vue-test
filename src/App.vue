@@ -1,8 +1,9 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">G2G Brands</router-link> |
+    <router-link to="/bookmarks">Bookmarks</router-link>
   </nav>
+  <!-- display component -->
   <router-view />
 </template>
 
